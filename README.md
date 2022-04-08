@@ -29,5 +29,11 @@ Lista de tarefas a fazer no repositório:
 - [ ] Ler a documentação sobre *Marckdown*
 - [ ] Ler a documentação do gi/github
 
+# BRANCHS
+git branch -> LISTA AS BRANCHS NO COMPUTADOR
+git branch nome_da_branch -> NÃO colocar acento ou ç, e use underline para os espaços em branco
+git swicth nome_da_branch -> muda de branch
+método alternativo para o GIT SWITCH: git checkout nome_da_branch
+
 ### Referências
 * [Documentação do GitHub](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
